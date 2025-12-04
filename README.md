@@ -1,6 +1,6 @@
 # Console Utility Program in C++
 
-This is a simple **console-based program written in C++** that provides a menu-driven interface for performing various small tasks. The program demonstrates basic programming concepts such as loops, conditionals, arrays, random number generation, and file handling.
+This is a simple university **console-based program written in C++** that provides a menu-driven interface for performing various small tasks. The program demonstrates basic programming concepts such as loops, conditionals, arrays, random number generation, and file handling.
 
 ## Features
 - Menu-driven console interface
